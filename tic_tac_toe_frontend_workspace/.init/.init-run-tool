@@ -1,0 +1,4 @@
+{
+    "command": "npm start -- --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/angularfasttictactoe-67263-58f2ad6e/tic_tac_toe_frontend_workspace/tic_tac_toe_frontend"
+}
